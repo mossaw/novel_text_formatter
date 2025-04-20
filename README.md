@@ -58,9 +58,9 @@ GUIアプリのメインスクリプトです。ボタンUIを提供し、下記
 2. 以下のコマンドでGUIを起動：
 
 ```bash
-python text_formatter.py
+python novel_text_formatter.py
 ```
-
+多分Pythonインストールしてれば普通にファイルダブルクリックでいけると思う
 ---
 
 ### 🖱 GUI操作手順
